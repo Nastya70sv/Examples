@@ -1,0 +1,15 @@
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/bin/Debug/net7.0/Example001_Hello console
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/bin/Debug/net7.0/Example001_Hello console.deps.json
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/bin/Debug/net7.0/Example001_Hello console.runtimeconfig.json
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/bin/Debug/net7.0/Example001_Hello console.dll
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/bin/Debug/net7.0/Example001_Hello console.pdb
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/obj/Debug/net7.0/Example001_Hello console.csproj.AssemblyReference.cache
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/obj/Debug/net7.0/Example001_Hello console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/obj/Debug/net7.0/Example001_Hello console.AssemblyInfoInputs.cache
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/obj/Debug/net7.0/Example001_Hello console.AssemblyInfo.cs
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/obj/Debug/net7.0/Example001_Hello console.csproj.CoreCompileInputs.cache
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/obj/Debug/net7.0/Example001_Hello console.dll
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/obj/Debug/net7.0/refint/Example001_Hello console.dll
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/obj/Debug/net7.0/Example001_Hello console.pdb
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/obj/Debug/net7.0/Example001_Hello console.genruntimeconfig.cache
+/Users/panov/Desktop/GB/Examples/Example001_Hello console/obj/Debug/net7.0/ref/Example001_Hello console.dll
